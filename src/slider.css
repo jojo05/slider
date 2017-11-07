@@ -1,0 +1,31 @@
+
+.slider {
+	position: relative;
+	cursor: pointer;
+}
+
+.slider_image {
+	margin-left: 40px;
+}
+
+.slider_arrow {
+	position: absolute;
+	top: 50%;
+	width: 40px;
+	height: 70px;
+	padding: 10px;
+	cursor: pointer;
+	background: black;
+	border: none;
+	outline: none;
+}
+
+
+.slider_arrow_left {
+	left: 0px;
+}
+.slider_arrow_right {
+	left: 190px;
+}
+
+
